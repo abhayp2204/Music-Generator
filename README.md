@@ -33,4 +33,4 @@ The building blocks of WaveNet are `Casual Dilated 1D Convolution Layers`. A con
 6. Compose new music
 7. Convert numbers back to notes by reversing the one-to-one mapping
 
-<img src="./images/midi_file.png" alt="midi file">
+<img src="./images/midifile.png" alt="midi file">
